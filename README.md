@@ -11,7 +11,7 @@ Business Process Modelling: 用户购买图书, 每条订单明确以下内容: 
 ## 实体关系图
 
 Entity Relationship Diagram (ERD)
-<p align="center"><img src=https://raw.githubusercontent.com/ZhidongZhou/gallery/master/img/bookstore_ERD.jpg alt="blockw" style="zoom:30%;"/></p>
+<p align="center"><img src=https://raw.githubusercontent.com/ZhidongZhou/gallery/master/img/bookstore_ERD.jpg alt="blockw" width="300"/></p>
 
 ## Mockup
 
