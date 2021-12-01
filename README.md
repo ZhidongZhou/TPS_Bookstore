@@ -4,7 +4,7 @@
 ## 业务流程建模
 Business Process Modelling: 用户购买图书, 每条订单明确以下内容: 书籍名称和购买书籍的数量，例如：
 
-```json
+```
 {
     购买者ID: "customer_001", 
     购买图书ID: "book_018", 
@@ -81,6 +81,7 @@ Entity Relationship Diagram (ERD)
 
 #### DEMO视频
 
+[![Demo](img/TPS_Bookstore_DEMO.png)](https://www.ixigua.com/7036676531942326821)
 
 
 ## Future Work
